@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Puntuar Cosas</string>
+    <string name="newThing">Nueva</string>
+    <string name="accetpt">Aceptar</string>
+    <string name="rate">Puntuar</string>
+</resources>

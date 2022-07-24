@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<localizaciones>
+    <localizacion>
+        <titulo>Cardenal RAM</titulo>
+        <fragmento>https://hotelcardenalram.com/</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>40.6181083</latitud>
+        <longitud>-0.1036815</longitud>
+    </localizacion>
+    <localizacion>
+        <titulo>Palau dels Osset</titulo>
+        <fragmento>https://palaudelsosset.com/</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>40.6453629</latitud>
+        <longitud>-0.1992183</longitud>
+    </localizacion>
+    <localizacion>
+        <titulo>Turismo Morella</titulo>
+        <fragmento>964173032</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>40.6214498</latitud>
+        <longitud>-0.1012665</longitud>
+    </localizacion>
+    <localizacion>
+        <titulo>El Forcall</titulo>
+        <fragmento>964171290</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>40.6460531</latitud>
+        <longitud>-0.2002412</longitud>
+    </localizacion>
+</localizaciones>
